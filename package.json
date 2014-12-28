@@ -1,0 +1,19 @@
+{
+  "name": "ridm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/ridm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/CocktailJS/ridm.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CocktailJS/ridm/issues"
+  },
+  "homepage": "https://github.com/CocktailJS/ridm"
+}
